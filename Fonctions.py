@@ -8,3 +8,6 @@ print(GAY)
 
 #deuxieme test pour voir si palin est encore gay
 
+trèsGay = GAY**2
+
+print(trèsGay)
