@@ -11,3 +11,7 @@ print(GAY)
 trèsGay = GAY**2
 
 print(trèsGay)
+
+#ou est palin
+rep = 'chez solene'
+print(rep)
