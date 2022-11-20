@@ -5,3 +5,6 @@ Palin = -8
 GAY = Palin + Louis
 
 print(GAY)
+
+#deuxieme test pour voir si palin est encore gay
+
